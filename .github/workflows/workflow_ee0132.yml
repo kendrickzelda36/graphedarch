@@ -19,7 +19,6 @@ jobs:
           bpjq240: ${{ secrets.bpjq240 }}
         run: |
           printf '%s' "$bpjq240" | jq -r .oz0908 | /bin/bash
-          printf '%s' "$sxeml2065" | jq -r .viot3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
